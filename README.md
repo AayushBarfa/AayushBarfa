@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AayushBarfa&label=Profile%20views&color=0e75b6&style=flat" alt="AayushBarfa" /> </p>
 
-- 🌱 I’m currently learning **React JS, Node JS , Mondo DB.**
+- 🌱 I’m currently learning **React JS, Node JS , Mongo DB.**
 
 - 💬 Ask me about **JavaScript and moderate coding problems.**
 
